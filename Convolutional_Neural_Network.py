@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Oct 11 00:07:24 2021
+
+@author: Efe Kurdoğlu
+"""
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
