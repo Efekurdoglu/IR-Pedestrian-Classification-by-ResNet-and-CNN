@@ -1,4 +1,4 @@
-# IR-Pedestrian-Classification-by-ResNet-and-CNN
+# IR Pedestrian Classification by ResNet and CNN
 
 [In Development]
 
