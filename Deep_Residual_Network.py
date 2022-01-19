@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jan 13 00:07:24 2021
+Created on Thu Nov 15 00:07:24 2021
 
 @author: Efe Kurdoğlu
 """
